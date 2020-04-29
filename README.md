@@ -1,2 +1,2 @@
 # link
-Linking data and work
+A self generating text adventure game!
